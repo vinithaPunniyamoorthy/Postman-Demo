@@ -16,6 +16,18 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "GET Book list",
+			"id": "7235d038-8681-4861-bb6c-a96563aafd3a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
